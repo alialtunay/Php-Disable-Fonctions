@@ -6,3 +6,4 @@ pcntl_wexitstatus,pcntl_wifexited,pcntl_wifsignaled,pcntl_wifstopped,pcntl_wstop
 apache_getenv,apache_note,apache_setenv,virtual,name,passthru,curl_multi_exec,xmlrpc_entity_decode,posix_uname,posix_getpwuid,phpAds_xmlrpcEncode,
 phpAds_xmlrpcDecode,phpAds_XmlRpc,phpAds_remoteInfo,php_uname,mysql_pconnect,inject_code,ini_restore,ini_get_all,highlight_file,ftp_rawlist,ftp_raw,
 ftp_put,ftp_nb_fput,ftp_login,ftp_get,ftp_exec,ftp_connect,fput,fp,eval,define_syslog_variables,phpinfo,open_base,foreach,restore_ini,curl_exec,glob
+,allow_url_fopen,allow_url_include,exec,shell_exec,system,passthru,popen,stream_select,
